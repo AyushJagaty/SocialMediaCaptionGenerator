@@ -9,26 +9,6 @@ This GitHub repository contains the source code for a Flutter app that utilizes 
 - **Caption Generation:** Leverage the Gemini API to automatically generate creative and engaging captions tailored to your social media needs.
 - **Intuitive Interface:** Enjoy a user-friendly interface for easy image selection, prompt editing, and caption generation.
 
-**Requirements:**
-
-- Flutter (version required: [insert version])
-- Google Generative AI API ([invalid URL removed])
-- Flutter packages:
-    - `flutter_spinkit`: For loading indicator animation ([https://pub.dev/packages/flutter_spinkit](https://pub.dev/packages/flutter_spinkit))
-    - `image_picker`: For image selection from device ([https://pub.dev/packages/image_picker](https://pub.dev/packages/image_picker))
-
-**Installation:**
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/social-media-caption-generator.git
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   cd social-media-caption-generator
-   flutter pub get
-   ```
 
 **Usage:**
 
